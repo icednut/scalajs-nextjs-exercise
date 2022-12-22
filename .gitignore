@@ -9,7 +9,6 @@ coverage
 out
 
 # scala
-target
 .bsp
 .bloop
 .metals
